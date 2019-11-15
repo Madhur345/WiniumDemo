@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22042" started-at="2019-11-08T06:13:18Z" finished-at="2019-11-08T06:13:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22042" started-at="2019-11-08T06:13:18Z" finished-at="2019-11-08T06:13:40Z">
+      <class name="com.winium.demo.CalculatorTest">
+        <test-method status="PASS" signature="calculator()[pri:0, instance:com.winium.demo.CalculatorTest@59a6e353]" name="calculator" duration-ms="22015" started-at="2019-11-08T11:43:18Z" finished-at="2019-11-08T11:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculator -->
+      </class> <!-- com.winium.demo.CalculatorTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
